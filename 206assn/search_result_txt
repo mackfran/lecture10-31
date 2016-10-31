@@ -1,0 +1,6 @@
+(dp0
+S'https://api.flickr.com/services/rest/?per_page=5&format=json&method=flickr.photos.search&tag_mode=all&tags=mountains%2C+Switzerland%2C+cows'
+p1
+VjsonFlickrApi({"photos":{"page":1,"pages":311,"perpage":5,"total":"1551","photo":[{"id":"28954851911","owner":"88354257@N04","secret":"5c49eaeb34","server":"8286","farm":9,"title":"Alpine cows 3","ispublic":1,"isfriend":0,"isfamily":0},{"id":"28954377081","owner":"88354257@N04","secret":"d71873bf67","server":"8348","farm":9,"title":"Alpine cows","ispublic":1,"isfriend":0,"isfamily":0},{"id":"28954353961","owner":"88354257@N04","secret":"e685e1a917","server":"8458","farm":9,"title":"Alpine cows","ispublic":1,"isfriend":0,"isfamily":0},{"id":"28898995552","owner":"51749628@N04","secret":"8502ae8611","server":"8640","farm":9,"title":"Alp with cows b&w","ispublic":1,"isfriend":0,"isfamily":0},{"id":"28879471442","owner":"129598797@N08","secret":"f4663b58d0","server":"8372","farm":9,"title":"","ispublic":1,"isfriend":0,"isfamily":0}]},"stat":"ok"})
+p2
+s.
